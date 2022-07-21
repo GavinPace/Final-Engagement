@@ -1,5 +1,7 @@
 # Final-Engagement
 
+The following presentation is simulating as a security engineer supporting an organization's SOC infrastructure.
+
 ![img](/images/Final%20Project%20Gavin1024_1.jpg)
 ![img](/images/Final%20Project%20Gavin1024_2.jpg)
 ![img](/images/Final%20Project%20Gavin1024_3.jpg)
