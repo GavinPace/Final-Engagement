@@ -1,3 +1,3 @@
 # Final-Engagement
 
-![img](/images/Final Project Gavin1024_1.jpg)
+![img](/images/Final%20Project%20Gavin1024_1.jpg)
